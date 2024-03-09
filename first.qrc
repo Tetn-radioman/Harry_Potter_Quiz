@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>harry_potter_art.jpg</file>
+        <file>test1.txt</file>
+        <file>background.jpg</file>
+    </qresource>
+</RCC>
